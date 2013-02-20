@@ -1,0 +1,23 @@
+Fettet, Louis
+Base-Level_Python_Assignments/ README.txt
+12/22/12
+
+----------------------------------Triangles.py----------------------------------
+Draws ASCII triangles in the console.
+
+
+--------------------------------Approximate_Pi.py-------------------------------
+Approximates Pi by generating a number of random coordinates on a square and checking to see if those coordinates land in the unit circle.
+
+----------------------------------Book_Stats.py---------------------------------
+Reads in a simple text file and returns the twenty most used words and the number of times each of these words occur. 
+The file "20k.txt" is included to show how the program runs on the book Twenty Thousand Leagues Under the Sea by Jules verne.
+
+---------------------------------Mastermind.py----------------------------------
+A simple game of Mastermind that plays within the user's console.
+
+----------------------------------Flashcard.py----------------------------------
+Reads in a text file with questions and answers, asks the user these questions, records the user's score, and returns "scorefile.txt" with the user's performance after the program is finished.
+Files "uscaps.txt", "python.txt", and "taekwondo.txt" are included to show both how the text file should be formatted and how the program runs.
+The file "scorefile.txt" is rewritten every time the program is run.
+Plays within the user's console.
